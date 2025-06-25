@@ -37,6 +37,7 @@ I’m a Software Engineer with a passion for building scalable, secure, and high
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?logo=serverless&logoColor=white) 
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B.svg?logo=aws&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### Cloud
@@ -69,5 +70,5 @@ I’m a Software Engineer with a passion for building scalable, secure, and high
 
 ## 🌱 Currently Learning
 - Experimenting with local LLM deployments (e.g., Ollama) for offline AI assistants.
-- Exploring advanced data privacy techniques (differential privacy) in healthcare ML workflows.
+- Exploring advanced data privacy techniques (differential privacy) in healthcare workflows.
 - Diving deeper into Kubernetes operators for custom resource automation.
