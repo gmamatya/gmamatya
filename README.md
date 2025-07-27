@@ -30,11 +30,12 @@ I’m a Software Engineer with a passion for building scalable, secure, and high
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
-### Version Control & CI/CD
+### Version Control, CI/CD, Infrastructure as Code (IaC)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) 
 ![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900.svg?logo=aws&logoColor=white) 
-![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?logo=serverless&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?logo=serverless&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B.svg?logo=aws&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
