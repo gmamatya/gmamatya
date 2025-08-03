@@ -12,6 +12,7 @@ I’m a Software Engineer with a passion for building scalable, secure, and high
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 
 ### Frameworks/Libraries
 
